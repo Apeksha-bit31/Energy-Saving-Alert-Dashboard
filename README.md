@@ -55,3 +55,4 @@ Compare: The four appliances side by side.
 Other changes
 I fixed a bug where some cards were missing their rule colors.
 The five tabs and the sub-options replace the old tile menu on the home page.
+Copyright (c) 2026 Apeksha-bit31/Energy-Saving-Alert-Dashboard. All rights reserved.
